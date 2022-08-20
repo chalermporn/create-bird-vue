@@ -1,6 +1,6 @@
 {
   "name": "create-bird-vue",
-  "version": "3.3.2",
+  "version": "0.0.3",
   "description": "An easy way to start a Vue project",
   "type": "module",
   "bin": {

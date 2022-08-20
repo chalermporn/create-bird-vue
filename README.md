@@ -3,7 +3,7 @@
 The recommended way to start a Vite-powered Vue project
 
 <p align="center">
-  <img src="https://github.com/vuejs/create-bird-vue/blob/main/media/screenshot-cli.png?raw=true" width="800">
+  <img src="https://github.com/chalermporn/create-bird-vue/blob/main/media/screenshot-cli.png?raw=true" width="800">
 </p>
 
 ## Usage
