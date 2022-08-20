@@ -24,15 +24,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vuejs/create-bird-vue.git"
+    "url": "git+https://github.com/chalermporn/create-bird-vue.git"
   },
   "keywords": [],
   "author": "Haoqun Jiang <haoqunjiang+npm@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/vuejs/create-bird-vue/issues"
+    "url": "https://github.com/chalermporn/create-bird-vue/issues"
   },
-  "homepage": "https://github.com/vuejs/create-bird-vue#readme",
+  "homepage": "https://github.com/chalermporn/create-bird-vue#readme",
   "devDependencies": {
     "@types/eslint": "^8.4.6",
     "@types/prompts": "^2.0.14",
