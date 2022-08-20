@@ -3,7 +3,7 @@
 The recommended way to start a Vite-powered Vue project
 
 <p align="center">
-  <img src="https://github.com/vuejs/create-vue/blob/main/media/screenshot-cli.png?raw=true" width="800">
+  <img src="https://github.com/vuejs/create-bird-vue/blob/main/media/screenshot-cli.png?raw=true" width="800">
 </p>
 
 ## Usage
@@ -22,9 +22,9 @@ Note that the version number (`@3` or `@2`) MUST NOT be omitted, otherwise `npm`
 
 ## Difference from Vue CLI
 
-- Vue CLI is based on webpack, while `create-vue` is based on [Vite](https://vitejs.dev/). Vite supports most of the configured conventions found in Vue CLI projects out of the box, and provides a significantly better development experience due to its extremely fast startup and hot-module replacement speed. Learn more about why we recommend Vite over webpack [here](https://vitejs.dev/guide/why.html).
+- Vue CLI is based on webpack, while `create-bird-vue` is based on [Vite](https://vitejs.dev/). Vite supports most of the configured conventions found in Vue CLI projects out of the box, and provides a significantly better development experience due to its extremely fast startup and hot-module replacement speed. Learn more about why we recommend Vite over webpack [here](https://vitejs.dev/guide/why.html).
 
-- Unlike Vue CLI, `create-vue` itself is just a scaffolding tool: it creates a pre-configured project base on the features you choose, and delegates the rest to Vite. Projects scaffolded this way can directly leverage the [Vite plugin ecosystem](https://vitejs.dev/plugins/) which is Rollup-compatible.
+- Unlike Vue CLI, `create-bird-vue` itself is just a scaffolding tool: it creates a pre-configured project base on the features you choose, and delegates the rest to Vite. Projects scaffolded this way can directly leverage the [Vite plugin ecosystem](https://vitejs.dev/plugins/) which is Rollup-compatible.
 
 ## Migrating from Vue CLI
 
