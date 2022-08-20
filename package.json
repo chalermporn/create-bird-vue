@@ -1,10 +1,10 @@
 {
-  "name": "create-vue",
+  "name": "create-bird-vue",
   "version": "3.3.2",
   "description": "An easy way to start a Vue project",
   "type": "module",
   "bin": {
-    "create-vue": "outfile.cjs"
+    "create-bird-vue": "outfile.cjs"
   },
   "files": [
     "outfile.cjs",

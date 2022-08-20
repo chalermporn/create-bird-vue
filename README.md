@@ -1,4 +1,4 @@
-# create-vue
+# create-bird-vue
 
 The recommended way to start a Vite-powered Vue project
 
